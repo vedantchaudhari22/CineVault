@@ -77,12 +77,12 @@ To satisfy the search autocomplete requirement, we avoided linear arrays search:
 5.  In the root directory of this project, open `.env` and fill in your keys:
 
 ```env
-VITE_FIREBASE_API_KEY=AIzaSy...your-actual-api-key
-VITE_FIREBASE_AUTH_DOMAIN=binaire-acf1e.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=binaire-acf1e
-VITE_FIREBASE_STORAGE_BUCKET=binaire-acf1e.firebasestorage.app
-VITE_FIREBASE_MESSAGING_SENDER_ID=450108825561
-VITE_FIREBASE_APP_ID=1:450108825561:web:12583de6705a777df7c3c8
+VITE_FIREBASE_API_KEY=your-actual-api-key
+VITE_FIREBASE_AUTH_DOMAIN=your domain
+VITE_FIREBASE_PROJECT_ID=your project name
+VITE_FIREBASE_STORAGE_BUCKET=your storage bucket
+VITE_FIREBASE_MESSAGING_SENDER_ID=your messaging sender id
+VITE_FIREBASE_APP_ID=your app id
 ```
 
 ### Run Locally
